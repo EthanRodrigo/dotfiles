@@ -3,7 +3,11 @@
 
 ## MY FIRST RICE ON FIRST ARCH
 
-###### What I have used
+##### Screenshots
+<img src="https://github.com/ethan-rod6/rice/blob/Esme/Esme/screenshots/wallpaper.png">
+<img src="https://github.com/ethan-rod6/rice/blob/Esme/Esme/screenshots/neofetchCavaTop.png">
+
+##### What I have used
 
 1. [Wallpaper](https://www.pixel4k.com/wp-content/uploads/2020/01/inside-moonlight-anime-girl_1578254177.jpg)
 2. WM - [i3](https://github.com/i3/i3)
