@@ -18,3 +18,4 @@
 14. [vim](https://github.com/vim/vim)
 15. [neofetch](https://github.com/dylanaraps/neofetch)
 16. [rofi](https://github.com/davatorium/rofi)
+17. font - [Fantasque Sans Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FantasqueSansMono)
