@@ -3,9 +3,8 @@
 
 ## MY FIRST RICE ON FIRST ARCH
 
-##### Screenshots
-<img src="https://github.com/ethan-rod6/rice/blob/Esme/Esme/screenshots/wallpaper.png">
-<img src="https://github.com/ethan-rod6/rice/blob/Esme/Esme/screenshots/neofetchCavaTop.png">
+##### Screenshot
+<img src="https://github.com/ethan-rod6/rice/blob/main/Esme/screenshots/rice.png">
 
 ##### What I have used
 
