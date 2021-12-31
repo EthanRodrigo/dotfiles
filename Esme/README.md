@@ -16,12 +16,12 @@
 6. Compositor - [Picom](https://github.com/jonaburg/picom)
 7. Spotify - [Spicetify](https://github.com/khanhas/spicetify-cli)
 	[spicetify themese](https://github.com/morpheusthewhite/spicetify-themes)
-11. Music visualizer - [cava](https://github.com/karlstav/cava)
-13. File manager - [vifm](https://github.com/vifm/vifm)
-14. [vim](https://github.com/vim/vim)
-15. [neofetch](https://github.com/dylanaraps/neofetch)
-16. [rofi](https://github.com/davatorium/rofi)
-17. font - [Fantasque Sans Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FantasqueSansMono)
+8. Music visualizer - [cava](https://github.com/karlstav/cava)
+9. File manager - [vifm](https://github.com/vifm/vifm)
+10. [vim](https://github.com/vim/vim)
+11. [neofetch](https://github.com/dylanaraps/neofetch)
+12. [rofi](https://github.com/davatorium/rofi)
+13. font - [Fantasque Sans Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FantasqueSansMono)
 
 ##### How to setup
 * Install all packages mention above.
