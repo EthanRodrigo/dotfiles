@@ -39,10 +39,12 @@ let g:python_highlight_all = 1
 " Mapping ------------------------------------------------------------- {{{
 " spacebar for : key
 nnoremap <space> :
+nnoremap <F2> :w <CR>
+nnoremap <F3> :wq <CR>
 
 " Run, compile programs --------------------------------------------- {{{
 " Python
-nnoremap <f5>p :w <CR>:!python3 % <CR> 
+nnoremap <f5>p :w <CR>:!python3 %<CR> 
 
 " C
 nnoremap <f5>c :w<CR>:!gcc -Wall -Wextra % -o '%:r' <CR>
