@@ -44,15 +44,15 @@ nnoremap <F3> :wq <CR>
 
 " Run, compile programs --------------------------------------------- {{{
 " Python
-nnoremap <f5>p :w <CR>:!python3 %<CR> 
+nnoremap <f5>p :w<CR>:!python3 %<CR>
 
 " C
 nnoremap <f5>c :w<CR>:!gcc -Wall -Wextra % -o '%:r' <CR>
 nnoremap <f5>cr :!./'%:r' <CR>
 
 " Cpp
-nnoremap <f5>C :w<CR>:!g++ -Wall -Wextra % -o '%:r' <CR>
-nnoremap <f5>Cr :!./'%:r' <CR>
+nnoremap <f5>cp :w<CR>:!g++ -Wall -Wextra % -o '%:r' <CR>
+nnoremap <f5>cpr :!./'%:r' <CR>
 
 " JS
 nnoremap <F5>s :w<CR>:!node % <CR>
