@@ -21,11 +21,3 @@ This is my first rice on the first arch installation. A lot of firsts. Stay conn
 10. ***[vim](https://github.com/vim/vim)*** :memo:
 11. ***[neofetch](https://github.com/dylanaraps/neofetch)*** :feather:
 12. ***[rofi](https://github.com/davatorium/rofi)*** :comet:
-
-##### How to setup
-* Install all packages mention above.
-* Install the fonts
-* run below to get configs into your computer
-```
-$ cp -r .config/* ~/.config/ 
-```
