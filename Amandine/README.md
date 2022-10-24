@@ -3,6 +3,9 @@
 ### Intro
 This is my rice for the year 2022. Not the best, but I feel proud as this is better than the [last time](https://github.com/EthanRodrigo/dotfiles/tree/main/Esme). 
 
+### Screenshot
+<img src="https://github.com/ethan-rod6/rice/blob/main/Amandine/Assets/out.png">
+
 ### What I have used?
 - ***OS*** - **[Arch Linux](https://aur.archlinux.org/)** :alien: I use Arch btw,
 - ***Window Manager*** - **[Qtile](http://www.qtile.org/)** :revolving_hearts: Love at first sight.
