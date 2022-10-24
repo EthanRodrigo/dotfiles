@@ -1,12 +1,12 @@
 # ESME
 
+### Intro
+This is my first rice on the first arch installation. A lot of firsts. Stay connected to see more rice
 
-## MY FIRST RICE ON FIRST ARCH
-
-##### Screenshot
+### Screenshot
 <img src="https://github.com/ethan-rod6/rice/blob/main/Esme/screenshots/rice.png">
 
-##### What I have used
+### What I have used
 
 1. [Wallpaper](https://www.pixel4k.com/wp-content/uploads/2020/01/inside-moonlight-anime-girl_1578254177.jpg)
 2. WM - [i3-gaps](https://github.com/Airblader/i3)
