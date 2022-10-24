@@ -114,6 +114,9 @@ keys=[
     Key([mod, "shift"], "n", lazy.spawn("notion-snap"), desc="Launch notion"),
     Key([mod, "shift"], "s", lazy.spawn("flatpak run com.spotify.Client"), desc="Launch notion"),
     Key([mod, "shift"], "t", lazy.spawn("flatpak run org.telegram.desktop"), desc="Launch notion"),
+    # screenshot
+    Key([], "Print", lazy.spawn("ksnip -f"), desc="Launch notion"),
+    Key([mod], "Print", lazy.spawn("ksnip -r"), desc="Launch notion"),
 
     # Miscellaneous
     # Controlling the brightness
