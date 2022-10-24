@@ -1,4 +1,4 @@
-# ALL MY RICES
+# ALL MY DOTFILES FOR DIFFERENT RICES
 
 ## [ESME](https://github.com/EthanRodrigo/dotfiles/tree/main/Esme)
 ***2021 rice***
