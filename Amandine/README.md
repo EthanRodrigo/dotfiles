@@ -4,7 +4,7 @@
 This is my rice for the year 2022. Not the best, but I feel proud as this is better than the [last time](https://github.com/EthanRodrigo/dotfiles/tree/main/Esme). 
 
 ### Screenshot
-<img src="https://github.com/ethan-rod6/dotfiles/blob/main/Amandine/Assets/out.png">
+<img src="https://github.com/EthanRodrigo/dotfiles/blob/main/Amandine/Assets/out.png">
 
 ### What I have used?
 - ***OS*** - **[Arch Linux](https://aur.archlinux.org/)** :alien: I use Arch btw,
