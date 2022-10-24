@@ -4,7 +4,7 @@
 This is my first rice on the first arch installation. Experienced a lot of firsts with this. Stay connected to see more rice
 
 ### Screenshot
-<img src="https://github.com/ethan-rod6/rice/blob/main/Esme/screenshots/rice.png">
+<img src="https://github.com/EthanRodrigo/dotfiles/blob/main/Esme/screenshots/rice.png">
 
 ### What I have used
 
