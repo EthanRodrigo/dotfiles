@@ -16,5 +16,5 @@ This is my rice for the year 2022. Not the best, but I feel proud as this is bet
 - ***File Manager*** - **[vifm](https://github.com/vifm/vifm)** I don't like GUI.
 - ***Audio Visualizer*** - **[glava](https://github.com/jarcode-foss/glava/)** Better than others
 - ***Music Player** - **[spotify (spiced up)](https://github.com/spicetify/)** Still don't pay for it.
-                    **[theme](https://github.com/spicetify/spicetify-themes/blob/master/THEMES.md#dribbblish)** Dribbblish
+\t\t\t**[theme](https://github.com/spicetify/spicetify-themes/blob/master/THEMES.md#dribbblish)** Dribbblish
                     **[color-scheme]** Nord-Dark
