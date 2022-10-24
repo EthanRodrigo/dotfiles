@@ -7,7 +7,7 @@ This is my rice for the year 2022. Not the best, but I feel proud as this is bet
 - ***OS*** - **[Arch Linux](https://aur.archlinux.org/)** <i class="fa-solid fa-heart"></i> I use Arch btw,
 - ***Window Manager*** - **[Qtile](http://www.qtile.org/)** Love at first sight.
 - ***Compositor*** - **[picom (jonaburg's fork)](https://github.com/jonaburg/picom)** Animation is cool.
-- ***Bar*** - **[Qtile bar]** Why to use others when you have it in home? 
+- ***Bar*** - **Qtile bar** Why to use others when you have it at home? 
 - ***Terminal*** - **[kitty](https://github.com/kovidgoyal/kitty)** Fast and feature rich. 
 - ***Shell*** - **[fish](https://github.com/fish-shell/fish-shell)** It's fast and highly customizable
                 **[omf](https://github.com/oh-my-fish/oh-my-fish)**
