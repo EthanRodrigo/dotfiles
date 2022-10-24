@@ -1,7 +1,7 @@
 # ESME
 
 ### Intro
-This is my first rice on the first arch installation. A lot of firsts. Stay connected to see more rice
+This is my first rice on the first arch installation. Experienced a lot of firsts with this. Stay connected to see more rice
 
 ### Screenshot
 <img src="https://github.com/ethan-rod6/rice/blob/main/Esme/screenshots/rice.png">
