@@ -110,6 +110,7 @@ keys=[
     # applications
     Key([mod, "shift"], "a", lazy.spawn("android-studio"), desc="Launch android studio"),
     Key([mod, "shift"], "b", lazy.spawn("brave"), desc="Launch brave"),
+    Key([mod, "shift"], "c", lazy.spawn("code"), desc="Launch brave"),
     Key([mod, "shift"], "d", lazy.spawn("discord"), desc="Launch discord"),
     Key([mod, "shift"], "n", lazy.spawn("notion-snap"), desc="Launch notion"),
     Key([mod, "shift"], "s", lazy.spawn("flatpak run com.spotify.Client"), desc="Launch notion"),
@@ -180,12 +181,12 @@ for i in groups:
 # Append scratchpad with dropdowns to groups
 groups.append(ScratchPad('scratchpad', [
     DropDown('mixer', 'pavucontrol', width=0.4,
-             height=0.6, x=0.3, y=0.1, opacity=1),
-    ], 
+             height=0.6, x=0.3, y=0.1, opacity=0.8),
+    ],
     single=False))
 # extend keys list with keybinding for scratchpad
 keys.extend([
-    Key([], "F12", lazy.group['scratchpad'].dropdown_toggle('mixer'))
+    Key([], "F11", lazy.group['scratchpad'].dropdown_toggle('mixer'))
 ])
 
 ###########################################################################################################
