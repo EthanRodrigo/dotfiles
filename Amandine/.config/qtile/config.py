@@ -113,6 +113,7 @@ keys=[
     Key([mod, "shift"], "c", lazy.spawn("code"), desc="Launch brave"),
     Key([mod, "shift"], "d", lazy.spawn("discord"), desc="Launch discord"),
     Key([mod, "shift"], "n", lazy.spawn("notion-snap"), desc="Launch notion"),
+    Key([mod, "shift"], "p", lazy.spawn("pycharm-community"), desc="Launch notion"),
     Key([mod, "shift"], "s", lazy.spawn("flatpak run com.spotify.Client"), desc="Launch notion"),
     Key([mod, "shift"], "t", lazy.spawn("flatpak run org.telegram.desktop"), desc="Launch notion"),
     # screenshot
@@ -182,11 +183,16 @@ for i in groups:
 groups.append(ScratchPad('scratchpad', [
     DropDown('mixer', 'pavucontrol', width=0.4,
              height=0.6, x=0.3, y=0.1, opacity=0.8),
+    DropDown('videoRecorder', 'kazam', width=0.5),
+    DropDown('bluetooth', 'blueman-manager', width=0.5, 
+             height=0.8, x=0.3, y=0.1, opacity=0.8),
     ],
     single=False))
 # extend keys list with keybinding for scratchpad
 keys.extend([
-    Key([], "F11", lazy.group['scratchpad'].dropdown_toggle('mixer'))
+    Key([], "F10", lazy.group['scratchpad'].dropdown_toggle('bluetooth')),
+    Key([], "F11", lazy.group['scratchpad'].dropdown_toggle('mixer')),
+    Key([], "F12", lazy.group['scratchpad'].dropdown_toggle('videoRecorder'))
 ])
 
 ###########################################################################################################
