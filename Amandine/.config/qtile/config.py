@@ -116,6 +116,7 @@ keys=[
     Key([mod, "shift"], "p", lazy.spawn("pycharm-community"), desc="Launch notion"),
     Key([mod, "shift"], "s", lazy.spawn("flatpak run com.spotify.Client"), desc="Launch notion"),
     Key([mod, "shift"], "t", lazy.spawn("flatpak run org.telegram.desktop"), desc="Launch notion"),
+    Key([mod, "shift"], "g", lazy.spawn("gnome-clocks"), desc="Launch the clock"),
     # screenshot
     Key([], "Print", lazy.spawn("ksnip -f"), desc="Launch notion"),
     Key([mod], "Print", lazy.spawn("ksnip -r"), desc="Launch notion"),
@@ -191,7 +192,7 @@ groups.append(ScratchPad('scratchpad', [
 # extend keys list with keybinding for scratchpad
 keys.extend([
     Key([], "F10", lazy.group['scratchpad'].dropdown_toggle('bluetooth')),
-    Key([], "F11", lazy.group['scratchpad'].dropdown_toggle('mixer')),
+    Key([], "F9", lazy.group['scratchpad'].dropdown_toggle('mixer')),
     Key([], "F12", lazy.group['scratchpad'].dropdown_toggle('videoRecorder'))
 ])
 
@@ -327,6 +328,7 @@ def initWidgets(visible_groups: list) -> list:
             foreground=colors[1]
         ),
         widget.PulseVolume(
+            channel = "Master",
             foreground=colors[1],
             background=colors[3],
             font = 'Hurmit Nerd Font Mono',
