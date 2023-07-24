@@ -16,8 +16,7 @@
 # The above copyright notice and this permission notice shall be included in
 # all copies or substantial portions of the Software.
 #
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 # FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 # AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
@@ -113,10 +112,13 @@ keys=[
     Key([mod, "shift"], "c", lazy.spawn("code"), desc="Launch brave"),
     Key([mod, "shift"], "d", lazy.spawn("discord"), desc="Launch discord"),
     Key([mod, "shift"], "n", lazy.spawn("notion-snap"), desc="Launch notion"),
-    Key([mod, "shift"], "p", lazy.spawn("pycharm-community"), desc="Launch notion"),
-    Key([mod, "shift"], "s", lazy.spawn("flatpak run com.spotify.Client"), desc="Launch notion"),
-    Key([mod, "shift"], "t", lazy.spawn("flatpak run org.telegram.desktop"), desc="Launch notion"),
-    Key([mod, "shift"], "g", lazy.spawn("gnome-clocks"), desc="Launch the clock"),
+    Key([mod, "shift"], "p", lazy.spawn("postman"), desc="Launch postman"),
+    Key([mod, "shift"], "s", lazy.spawn("flatpak run com.spotify.Client"), desc="Launch spotify"),
+    Key([mod, "shift"], "t", lazy.spawn("flatpak run org.telegram.desktop"), desc="Launch telegram"),
+    Key([mod, "shift"], "g", lazy.spawn("flatpak run com.google.Chrome  "), desc="Launch the chrome"),
+    Key([mod, "control"], "g", lazy.spawn("gnome-clocks"), desc="Launch the clock"),
+    Key([mod, "control"], "p", lazy.spawn("pycharm-community"), desc="Launch pycharm-community"),
+    Key([mod, "control"], "s", lazy.spawn("flatpak run com.slack.Slack"), desc="Launch Slack"),
     # screenshot
     Key([], "Print", lazy.spawn("ksnip -f"), desc="Launch notion"),
     Key([mod], "Print", lazy.spawn("ksnip -r"), desc="Launch notion"),
