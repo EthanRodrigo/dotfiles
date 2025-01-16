@@ -7,3 +7,7 @@
 ## [AMANDINE](https://github.com/EthanRodrigo/dotfiles/tree/main/Amandine)
 ***2022 rice***
 <img src="https://github.com/EthanRodrigo/dotfiles/blob/main/Amandine/Assets/nvim.png">
+
+## [VANQUISH](https://github.com/EthanRodrigo/dotfiles/tree/main/Vanquish)
+***2025 rice***
+<img src="https://github.com/EthanRodrigo/dotfiles/blob/main/Vanquish/out.png">
