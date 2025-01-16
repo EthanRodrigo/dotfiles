@@ -3,7 +3,7 @@
 ### Intro
 Whenever I feel like my life is boring, I cook a rice. Here's my new cooking.
 
-![Screen gif](https://raw.githubusercontent.com/yourusername/yourrepository/main/Vanquish/screen.mp4) 
+![Screen gif](https://raw.githubusercontent.com/yourusername/yourrepository/main/Vanquish/screen.gif) 
 
 ### Ingredients?
 - ***OS*** - **[Arch Linux](https://aur.archlinux.org/)** :skull: I use Arch btw,
