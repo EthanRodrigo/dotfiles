@@ -3,7 +3,10 @@
 ### Intro
 Whenever I feel like my life is boring, I cook a rice. Here's my new cooking.
 
-![Screen gif](https://raw.githubusercontent.com/yourusername/yourrepository/main/Vanquish/screen.gif) 
+<video autoplay loop muted>
+  <source src="https://raw.githubusercontent.com/yourusername/yourrepository/main/Vanquish/screen0.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
 
 ### Ingredients?
 - ***OS*** - **[Arch Linux](https://aur.archlinux.org/)** :skull: I use Arch btw,
